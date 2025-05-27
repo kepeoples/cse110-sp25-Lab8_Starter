@@ -1,4 +1,3 @@
-# Lab8-Starter
 # Lab 8 - PWA: Network & Service Workers
 
 ## Lab Partner(s)
